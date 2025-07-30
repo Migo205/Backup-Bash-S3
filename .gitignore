@@ -1,0 +1,10 @@
+* .log 
+*.tmp 
+
+
+node_modules/
+dist/
+
+config.ini 
+*.env
+
